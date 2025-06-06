@@ -32,7 +32,7 @@ This CTF-style game introduces basic Linux commands and file system navigation. 
 
 ## Lab 2 - Environment Variables & SetUID
 **Lab Setup:** [Download Lab Files](https://seedsecuritylabs.org/Labs_20.04/Files/Environment_Variable_and_SetUID/Labsetup.zip)  
-**Submission:** `Environment_Variable_and_SetUID.pdf`
+**Submission:** [Environment_Variable_and_SetUID.pdf](https://github.com/phuongthanhkkk/System-and-Network-Security-Lab/blob/main/Environment_Variable_and_SetUID.pdf)
 
 This lab demonstrates how environment variables and SetUID programs can be exploited to escalate privileges, and how to mitigate these risks.
 
