@@ -44,7 +44,7 @@ This lab demonstrates how environment variables and SetUID programs can be explo
 ---
 
 ## Lab 3 - Buffer Overflow
-**Submission:** `Buffer_Overflow_Setuid.pdf`
+**Submission:** [Buffer_Overflow_Setuid.pdf](https://github.com/phuongthanhkkk/System-and-Network-Security-Lab/blob/main/Buffer_Overflow_Setuid.pdf)
 
 This lab explores how buffer overflow vulnerabilities can be used to alter a program's execution flow and gain control over a system.
 
@@ -58,7 +58,7 @@ This lab explores how buffer overflow vulnerabilities can be used to alter a pro
 
 ## Lab 4 - Natas Web Security
 **Link:** [Natas Wargame](https://overthewire.org/wargames/natas/)  
-**Submission:** `Natas Web Security.pdf`
+**Submission:** [Natas Web Security.pdf](https://github.com/phuongthanhkkk/System-and-Network-Security-Lab/blob/main/Natas%20Web%20Security.pdf)
 
 This web security game provides hands-on experience with server-side vulnerabilities.
 
@@ -73,7 +73,7 @@ This web security game provides hands-on experience with server-side vulnerabili
 
 ## Lab 5 - CSRF Attack
 **Lab Setup:** [Web_CSRF_Elgg](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/)  
-**Submission:** `Web_CSRF_Elgg.pdf`
+**Submission:** [Web_CSRF_Elgg.pdf](https://github.com/phuongthanhkkk/System-and-Network-Security-Lab/blob/main/Web_CSRF_Elgg.pdf)
 
 This lab uses a vulnerable Elgg social network to demonstrate CSRF attacks.
 
@@ -87,7 +87,7 @@ This lab uses a vulnerable Elgg social network to demonstrate CSRF attacks.
 
 ## Lab 6 - XSS
 **Lab Setup:** [Web_XSS_Elgg](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/)  
-**Submission:** `Web_XSS_Elgg.pdf`
+**Submission:** [Web_XSS_Elgg.pdf](https://github.com/phuongthanhkkk/System-and-Network-Security-Lab/blob/main/Web_XSS_Elgg.pdf)
 
 This lab explores how malicious JavaScript can be injected into web applications using XSS vulnerabilities.
 
@@ -101,7 +101,7 @@ This lab explores how malicious JavaScript can be injected into web applications
 
 ## Lab 7 - SQL Injection
 **Lab Setup:** [Web_SQL_Injection](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/)  
-**Submission:** `Web_SQL_Injection.pdf`
+**Submission:** [Web_SQL_Injection.pdf](https://github.com/phuongthanhkkk/System-and-Network-Security-Lab/blob/main/Web_SQL_Injection.pdf)
 
 This lab focuses on SQL injection attacks, showing how attackers can extract or manipulate database contents through vulnerable inputs.
 
@@ -115,7 +115,7 @@ This lab focuses on SQL injection attacks, showing how attackers can extract or 
 
 ## Lab 8 - Sniffing & Spoofing
 **Lab Setup:** [Sniffing_Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/)  
-**Submission:** `Packet_Sniffing_Spoofing.pdf`
+**Submission:** [Packet_Sniffing_Spoofing.pdf](https://github.com/phuongthanhkkk/System-and-Network-Security-Lab/blob/main/Packet_Sniffing_Spoofing.pdf)
 
 This networking lab covers how packets can be captured, inspected, and spoofed on a LAN.
 
