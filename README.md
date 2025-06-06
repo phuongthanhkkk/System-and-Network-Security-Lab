@@ -113,4 +113,14 @@ This lab focuses on SQL injection attacks, showing how attackers can extract or 
 ---
 
 ## Lab 8 - Sniffing & Spoofing
-**Lab Set**
+**Lab Setup:** [Sniffing_Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/)  
+**Submission:** `Packet_Sniffing_Spoofing.pdf`
+
+This networking lab covers how packets can be captured, inspected, and spoofed on a LAN.
+
+**Topics Covered:**
+- Writing sniffers using Scapy  
+- Spoofing ICMP echo requests  
+- Reproducing `traceroute` using TTL  
+- Combining sniffing and spoofing for MITM simulations  
+- Using Wireshark for traffic analysis
