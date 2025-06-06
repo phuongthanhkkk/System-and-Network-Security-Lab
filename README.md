@@ -18,7 +18,8 @@ These labs were completed as part of the *System and Network Security* course. E
 
 ## Lab 1 - Bandit Wargame CTF
 **Link:** [Bandit Wargame](https://overthewire.org/wargames/bandit/)  
-**Submission:** `Bandit Wargame CTF.pdf`
+**Submission:** [Bandit Wargame CTF.pdf](https://github.com/phuongthanhkkk/System-and-Network-Security-Lab/blob/main/Bandit%20Wargame%20CTF.pdf)
+
 
 This CTF-style game introduces basic Linux commands and file system navigation. Each level reveals a new password hidden using Unix utilities and permissions.
 
